@@ -824,4 +824,18 @@
   .em {
     font-size: 13px;
   }
+    .result-down
+  {
+    width: 70%;
+  }
+  .down-b1,.down-b2
+  {
+    margin:5px;
+    width: 100%;
+   
+    font-size: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 }
